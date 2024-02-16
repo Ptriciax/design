@@ -1,0 +1,47 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 148rem;
+}.component-1-6nD {
+  box-sizing: border-box;
+  padding: 0rem 2rem 2rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.component-1-6nD .property-1desktop-3-mdT {
+  margin-bottom: 24.2rem;
+  width: 144rem;
+  height: 102.4rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-1-6nD .property-1desktop-2-Bx5 {
+  width: 144rem;
+  height: 102.4rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

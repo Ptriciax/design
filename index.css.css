@@ -1,0 +1,537 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 149rem;
+}.hero-Fbf {
+  box-sizing: border-box;
+  padding-bottom: 14.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #331d2c;
+}
+.hero-Fbf .auto-group-erkr-1jF {
+  margin-bottom: 8.5rem;
+  width: 172.9rem;
+  height: 84.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.hero-Fbf .auto-group-erkr-1jF .component-1-XUd {
+  width: 149rem;
+  height: 84.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hero-Fbf .auto-group-erkr-1jF .rectangle-3-2RP {
+  width: 172.9rem;
+  height: 13.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #3f2e3e;
+}
+.hero-Fbf .auto-group-erkr-1jF .portfolio-YPj {
+  width: 9.3rem;
+  height: 2rem;
+  position: absolute;
+  left: 7.5rem;
+  top: 7.85rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #a78295;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-Fbf .auto-group-erkr-1jF .navi-bN1 {
+  width: 55.6511rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 77.9rem;
+  top: 5.5rem;
+  display: flex;
+  align-items: center;
+}
+.hero-Fbf .auto-group-erkr-1jF .navi-bN1 .home-KJ1 {
+  margin-right: 7.5rem;
+  box-sizing: border-box;
+  padding: 0.15rem 0rem 0.25rem 0rem;
+  width: 7.6837rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #a78295;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hero-Fbf .auto-group-erkr-1jF .navi-bN1 .about-KSR {
+  margin-right: 7.5rem;
+  box-sizing: border-box;
+  padding: 0.15rem 0rem 0.25rem 0rem;
+  width: 7.6837rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #a78295;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hero-Fbf .auto-group-erkr-1jF .navi-bN1 .works-vSD {
+  margin-right: 7.4837rem;
+  width: 7.7rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #a78295;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.hero-Fbf .auto-group-erkr-1jF .navi-bN1 .knowledge-B7F {
+  width: 10.1rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #a78295;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.hero-Fbf .auto-group-erkr-1jF .hello-its-me-gph {
+  width: 13rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 7.4rem;
+  top: 18.3rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #3f2e3e;
+  font-family: Kantumruy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-Fbf .auto-group-erkr-1jF .patricia-andes-8Ro {
+  width: 34.8rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 7.4rem;
+  top: 23.3rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 800;
+  line-height: 1.2025;
+  color: #3f2e3e;
+  font-family: Sen, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-Fbf .auto-group-erkr-1jF .and-im-a-d7f {
+  width: 15.8rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 7.4rem;
+  top: 29.8rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #3f2e3e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-Fbf .auto-group-erkr-1jF .student-84R {
+  width: 13.8rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 24rem;
+  top: 29.8rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ed2b2a;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-Fbf .auto-group-erkr-1jF .i-haveacquired-basic-understanding-and-skills-in-a-variety-of-academic-technology-related-fields-through-myeducation-giving-mea-solid-understanding-of-the-subject-combining-my-genuine-interest-in-it-and-my-excitement-for-technology-support-my-credibility-further-given-that-they-show-my-dedication-to-the-fieldand-my-desire-to-engage-in-the-time-and-effort-necessary-to-my-studies-qjX {
+  width: 64.8rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 7.4rem;
+  top: 43.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2102272034;
+  color: #faeed1;
+  font-family: Inter, 'Source Sans Pro';
+}
+.hero-Fbf .auto-group-erkr-1jF .i-haveacquired-basic-understanding-and-skills-in-a-variety-of-academic-technology-related-fields-through-myeducation-giving-mea-solid-understanding-of-the-subject-combining-my-genuine-interest-in-it-and-my-excitement-for-technology-support-my-credibility-further-given-that-they-show-my-dedication-to-the-fieldand-my-desire-to-engage-in-the-time-and-effort-necessary-to-my-studies-qjX .i-haveacquired-basic-understanding-and-skills-in-a-variety-of-academic-technology-related-fields-through-myeducation-giving-mea-solid-understanding-of-the-subject-combining-my-genuine-interest-in-it-and-my-excitement-for-technology-support-my-credibility-further-given-that-they-show-my-dedication-to-the-fieldand-my-desire-to-engage-in-the-time-and-effort-necessary-to-my-studies-qjX-sub-0 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #3f2e3e;
+  font-family: Inter, 'Source Sans Pro';
+}
+.hero-Fbf .auto-group-erkr-1jF .i-haveacquired-basic-understanding-and-skills-in-a-variety-of-academic-technology-related-fields-through-myeducation-giving-mea-solid-understanding-of-the-subject-combining-my-genuine-interest-in-it-and-my-excitement-for-technology-support-my-credibility-further-given-that-they-show-my-dedication-to-the-fieldand-my-desire-to-engage-in-the-time-and-effort-necessary-to-my-studies-qjX .i-haveacquired-basic-understanding-and-skills-in-a-variety-of-academic-technology-related-fields-through-myeducation-giving-mea-solid-understanding-of-the-subject-combining-my-genuine-interest-in-it-and-my-excitement-for-technology-support-my-credibility-further-given-that-they-show-my-dedication-to-the-fieldand-my-desire-to-engage-in-the-time-and-effort-necessary-to-my-studies-qjX-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #3f2e3e;
+  font-family: Mukta Malar, 'Source Sans Pro';
+}
+.hero-Fbf .auto-group-erkr-1jF .i-haveacquired-basic-understanding-and-skills-in-a-variety-of-academic-technology-related-fields-through-myeducation-giving-mea-solid-understanding-of-the-subject-combining-my-genuine-interest-in-it-and-my-excitement-for-technology-support-my-credibility-further-given-that-they-show-my-dedication-to-the-fieldand-my-desire-to-engage-in-the-time-and-effort-necessary-to-my-studies-qjX .i-haveacquired-basic-understanding-and-skills-in-a-variety-of-academic-technology-related-fields-through-myeducation-giving-mea-solid-understanding-of-the-subject-combining-my-genuine-interest-in-it-and-my-excitement-for-technology-support-my-credibility-further-given-that-they-show-my-dedication-to-the-fieldand-my-desire-to-engage-in-the-time-and-effort-necessary-to-my-studies-qjX-sub-2 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #3f2e3e;
+  font-family: Mukta Malar, 'Source Sans Pro';
+}
+.hero-Fbf .auto-group-erkr-1jF .i-haveacquired-basic-understanding-and-skills-in-a-variety-of-academic-technology-related-fields-through-myeducation-giving-mea-solid-understanding-of-the-subject-combining-my-genuine-interest-in-it-and-my-excitement-for-technology-support-my-credibility-further-given-that-they-show-my-dedication-to-the-fieldand-my-desire-to-engage-in-the-time-and-effort-necessary-to-my-studies-qjX .i-haveacquired-basic-understanding-and-skills-in-a-variety-of-academic-technology-related-fields-through-myeducation-giving-mea-solid-understanding-of-the-subject-combining-my-genuine-interest-in-it-and-my-excitement-for-technology-support-my-credibility-further-given-that-they-show-my-dedication-to-the-fieldand-my-desire-to-engage-in-the-time-and-effort-necessary-to-my-studies-qjX-sub-3 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #3f2e3e;
+  font-family: Mukta Malar, 'Source Sans Pro';
+}
+.hero-Fbf .auto-group-erkr-1jF .rectangle-2-2WV {
+  width: 29.4rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 65.9rem;
+  filter: blur(0.75rem);
+  background-color: #ed2b2a;
+  border-radius: 142.4rem;
+}
+.hero-Fbf .auto-group-erkr-1jF .rectangle-1-XCM {
+  width: 29.4rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 65.9rem;
+  background-color: #3f2e3e;
+  border-radius: 142.4rem;
+}
+.hero-Fbf .auto-group-erkr-1jF .download-cv-3gV {
+  width: 20.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 9.9rem;
+  top: 67.15rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a78295;
+  font-family: NATS, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-Fbf .auto-group-erkr-1jF .rectangle-2-MSH {
+  width: 29.4rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 39.8rem;
+  top: 65.9rem;
+  filter: blur(0.75rem);
+  background-color: #ed2b2a;
+  border-radius: 142.4rem;
+}
+.hero-Fbf .auto-group-erkr-1jF .rectangle-1-HKw {
+  width: 29.4rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 39.8rem;
+  top: 65.9rem;
+  background-color: #3f2e3e;
+  border-radius: 142.4rem;
+}
+.hero-Fbf .auto-group-erkr-1jF .contact-me-ct1 {
+  width: 17.4rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 46.3rem;
+  top: 67.15rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a78295;
+  font-family: NATS, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-Fbf .auto-group-erkr-1jF .rectangle-8-w9b {
+  width: 40rem;
+  height: 43.8rem;
+  position: absolute;
+  left: 96.7rem;
+  top: 24.8rem;
+  filter: blur(0.6rem);
+  background-color: #3f2e3e;
+}
+.hero-Fbf .auto-group-erkr-1jF .n-1-s3F {
+  width: 39rem;
+  height: 39rem;
+  position: absolute;
+  left: 94.6rem;
+  top: 27.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.hero-Fbf .auto-group-erkr-1jF .item-1028720-1-yry {
+  width: 18.7rem;
+  height: 9.8rem;
+  position: absolute;
+  left: 13.6rem;
+  top: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.hero-Fbf .auto-group-erkr-1jF .illustration-download-arrow-orange-6wb {
+  width: 3.6426rem;
+  height: 2.9033rem;
+  position: absolute;
+  left: 29.7rem;
+  top: 67.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hero-Fbf .about-me-QSV {
+  margin: 0rem 9.1rem 0rem 7.4rem;
+  width: calc(100% - 16.5rem);
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.hero-Fbf .about-me-QSV .about-me-Jnm {
+  margin: 0rem 0.2rem 7.1rem 0rem;
+  display: flex;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.2025;
+  color: #b0a4a4;
+  font-family: Sen, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR {
+  width: 100%;
+  height: 52.1rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-ezcd-MW9 {
+  margin-right: 5.7208rem;
+  width: 47.1rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-ezcd-MW9 .rectangle-5-VMT {
+  width: 39.7rem;
+  height: 43.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  filter: blur(0.55rem);
+  background-color: #ed2b2a;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-ezcd-MW9 .rectangle-6-puX {
+  width: 39.7rem;
+  height: 43.5rem;
+  position: absolute;
+  left: 7.4rem;
+  top: 8.6rem;
+  filter: blur(0.55rem);
+  background-color: #ed2b2a;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-ezcd-MW9 .n-1-m45 {
+  width: 42.2rem;
+  height: 45.2rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 3.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-e1dk-ffF {
+  margin-bottom: 0.2241rem;
+  width: 79.6792rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-e1dk-ffF .auto-group-jpt5-DAy {
+  box-sizing: border-box;
+  padding: 0rem 6.679rem 14.5rem 6.679rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-e1dk-ffF .auto-group-jpt5-DAy .auto-group-chwx-M2H {
+  margin: 0rem 19.221rem 4.8rem 0rem;
+  width: 47.1rem;
+  height: 8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-e1dk-ffF .auto-group-jpt5-DAy .auto-group-chwx-M2H .my-name-is-patricia-e-andes-and-im-a-Ch7 {
+  width: 47.1rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 3.3rem;
+  font-weight: 800;
+  line-height: 1.2025;
+  color: #b0a4a4;
+  font-family: Sen, 'Source Sans Pro';
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-e1dk-ffF .auto-group-jpt5-DAy .auto-group-chwx-M2H .student-hds {
+  width: 14rem;
+  height: 4rem;
+  position: absolute;
+  left: 17.8rem;
+  top: 4rem;
+  display: flex;
+  font-size: 3.3rem;
+  font-weight: 800;
+  line-height: 1.2025;
+  color: #ed2b2a;
+  font-family: Sen, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-e1dk-ffF .auto-group-jpt5-DAy .my-goal-at-dalubhasaan-ng-lungsod-ng-lucena-is-to-obtain-a-bachelor-of-science-in-information-technology-i-am-now-a-third-year-student-there-although-i-was-first-hesitant-to-enroll-because-of-my-lack-of-knowledge-in-this-sector-i-am-pursuing-a-bsit-degree-because-it-fits-with-my-interests-professional-goals-and-want-to-work-in-a-field-that-offers-numerous-options-for-growth-and-progress-bz9 {
+  margin-right: 6.1208rem;
+  max-width: 58rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1.2025;
+  color: #ffffff;
+  font-family: Sen, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-e1dk-ffF .auto-group-we65-m1T {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-e1dk-ffF .auto-group-we65-m1T .icon-facebook-icon-udT {
+  margin: 0rem 3.777rem 0.41rem 0rem;
+  box-sizing: border-box;
+  padding: 1.194rem 2.166rem 0rem 2.304rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-Pc5.png');
+  flex-shrink: 0;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-e1dk-ffF .auto-group-we65-m1T .icon-facebook-icon-udT .vector-cXs {
+  width: 3.3412rem;
+  height: 4.9197rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-e1dk-ffF .auto-group-we65-m1T .icon-github-desktop-wq3 {
+  margin-right: 3.7873rem;
+  width: 7.6982rem;
+  height: 6.8491rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-e1dk-ffF .auto-group-we65-m1T .icon-instagram-icon-U4H {
+  margin-right: 3.4674rem;
+  width: 7.7076rem;
+  height: 6.8491rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-e1dk-ffF .auto-group-we65-m1T .icon-google-icon-oMT {
+  margin: 0rem 8.322rem 0.108rem 0rem;
+  width: 7.7076rem;
+  height: 6.8491rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-e1dk-ffF .auto-group-we65-m1T .auto-group-ql97-iUR {
+  margin-bottom: 0.6759rem;
+  box-sizing: border-box;
+  padding: 1.65rem 2.595rem 1.55rem 2.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #3f2e3e;
+  border-radius: 142.4rem;
+  flex-shrink: 0;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-e1dk-ffF .auto-group-we65-m1T .auto-group-ql97-iUR .download-cv-dbP {
+  margin-right: 0.4rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a78295;
+  font-family: NATS, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hero-Fbf .about-me-QSV .auto-group-6jnh-ozR .auto-group-e1dk-ffF .auto-group-we65-m1T .auto-group-ql97-iUR .illustration-download-arrow-orange-x7s {
+  margin-top: 0.7929rem;
+  width: 3.7048rem;
+  height: 2.9929rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
